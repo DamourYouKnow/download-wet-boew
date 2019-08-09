@@ -1,5 +1,5 @@
 {
-  "name": "download-wet-boew",
+  "name": "fetch-wet-boew",
   "version": "1.0.0",
   "description": "A script for downloading and extracting a distribution of the Web Experience Toolkit",
   "main": "downloadWET.js",
