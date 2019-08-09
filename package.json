@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DamourYouKnow/download-wet-boew.git"
+    "url": "git+https://github.com/DamourYouKnow/fetch-wet-boew.git"
   },
   "author": "Bailey D'Amour",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DamourYouKnow/download-wet-boew/issues"
+    "url": "https://github.com/DamourYouKnow/fetch-wet-boew/issues"
   },
-  "homepage": "https://github.com/DamourYouKnow/download-wet-boew#readme",
+  "homepage": "https://github.com/DamourYouKnow/fetch-wet-boew#readme",
   "devDependencies": {
     "adm-zip": "^0.4.13",
     "request": "^2.88.0",

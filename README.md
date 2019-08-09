@@ -1,7 +1,7 @@
 # download-wet-boew
 
-This script can be used to download the zip archive distribution of the 
-Web Experience Toolkit hosted at 
+This script is designed to operate in the NPM ecosystem and can be used to 
+download the zip archive distribution of the Web Experience Toolkit hosted at 
 https://wet-boew.github.io/v4.0-ci/docs/versions/dwnld-en.html. 
 
 ## Usage
@@ -16,5 +16,5 @@ node downloadWET https://github.com/wet-boew/wet-boew/releases/download/v4.0.31/
 After installing the package through NPM you may also add a script to your 
 `package.json` file:
 ```
-node ./node_modules/download_wet_boew/downloadWET https://github.com/wet-boew/wet-boew/releases/download/v4.0.31/wet-boew-dist-4.0.31.zip ./wet-boew
+node ./node_modules/fetch-wet-boew/downloadWET https://github.com/wet-boew/wet-boew/releases/download/v4.0.31/wet-boew-dist-4.0.31.zip ./wet-boew
 ```
